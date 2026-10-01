@@ -1,0 +1,5 @@
+/src/config.ini
+/.idea
+/.vscode
+/__pycache__/
+/src/__pycache__/
